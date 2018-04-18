@@ -23,7 +23,6 @@ input type="password" | Password will be masked when typing.
 select | An element that creates a drop dropdown menu.
 options | An element nested within the select element that sets a specific value.
 text-area | An element that allows multiple lines of text.
-
 JS | Description
 ---| -----------
 addEventListener "Submit" | An event that occurs when a form is submitted. 

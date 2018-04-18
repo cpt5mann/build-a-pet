@@ -1,0 +1,41 @@
+form{
+align-items: center;
+text-align:center;
+align-content:center;
+}
+#PETNAME{
+    border-top-style:none;
+    border-left-style:none;
+    border-right-style:none;
+border-color:green;
+}
+.boxes{
+    border-top-style:none;
+    border-left-style:none;
+    border-right-style:none;
+border-color:green; 
+}
+input{
+    background-color: greenyellow;
+}
+img{
+  
+    width: 100%;
+    z-index:-1;
+    position: absolute;
+    left:0px;
+    top:0px;
+    height:1000px;
+}
+
+.text{
+    color:white;
+}
+
+
+
+
+
+
+
+
