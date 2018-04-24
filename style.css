@@ -32,8 +32,12 @@ img{
     color:white;
 }
 
-
-
+select{
+    background-color: greenyellow;
+}
+textarea{
+    background-color:greenyellow;
+}
 
 
 
